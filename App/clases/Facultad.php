@@ -1,5 +1,7 @@
 <?php
-include_once "ConexionBD.php";
+namespace App\Clases;
+
+include_once "includes/autoload.php";
 
 class Facultad{
     private $id;

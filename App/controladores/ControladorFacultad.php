@@ -1,5 +1,6 @@
 <?php
-include_once "Facultad.php";
+namespace App\Controladores;
+include_once "includes/autoload.php";
 
 class ControladorFacultad
 {
